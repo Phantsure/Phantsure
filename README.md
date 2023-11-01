@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 👷 Software Engineer at `         `
+- 👀 Have been Hubber, i.e. worked at GitHub.
+- 🔭 IEEE conference author: https://ieeexplore.ieee.org/document/9864546
+  - 🤔 Fun fact: This was not my college project but a fun project
+- Created Google Developer Student Club at College level.
+  - 👨‍💻 Love to attend annual tech conferences. Like PyCon, JSConf, etc.
+- 💬 Ask me about Linux, GitHub, Astronomy, etc.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sampark-sharma/)  [Twitter](https://twitter.com/SharmaSampark)
+- 😄 Pronouns: he/him/his
 <!--
 **Phantsure/Phantsure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
